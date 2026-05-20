@@ -1,4 +1,4 @@
-# Azure Terraform Infrastructure Project
+# Azure Terraform Infrastructure
 
 Azure infrastructure using Terraform modules, remote state, state locking, and separate dev/prod environments.
 
