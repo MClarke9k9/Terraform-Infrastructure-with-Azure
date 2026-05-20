@@ -1,0 +1,10 @@
+project_name         = "cloudinfra"
+environment          = "dev"
+location             = "eastus"
+vnet_cidr            = "10.10.0.0/16"
+subnet_cidr          = "10.10.1.0/24"
+allowed_ssh_cidr     = "YOUR_PUBLIC_IP/32"
+vm_size              = "Standard_B1s"
+admin_username       = "azureuser"
+ssh_public_key_path  = "~/.ssh/id_rsa.pub"
+log_retention_days   = 30
